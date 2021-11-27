@@ -44,7 +44,7 @@ Some other presentations are also available on [Livesense's Speaker Deck](https:
 - **2020-12** [IndexedDB でつくる連珠棋譜検索](https://yubessy.hatenablog.com/entry/2020/12/15/002656)
 - **2018-11** [論文紹介: Rank and Relevance in Novelty and Diversity Metrics](https://yubessy.hatenablog.com/entry/2018/11/19/182548)
 - **2018-04** [機械学習システムの運用課題とコンテナオーケストレーションがもたらすもの](https://yubessy.hatenablog.com/entry/2018/04/16/120000)
-- **2017-01** [Word Mover's Distance: word2vecの文書間距離への応用](https://yubessy.hatenablog.com/?page=1503969036)
+- **2017-01** [Word Mover's Distance: word2vecの文書間距離への応用](https://yubessy.hatenablog.com/entry/2017/01/10/122737)
 
 Some other materials are also available on [My Speaker Deck](https://speakerdeck.com/yubessy) or [My Blog](https://yubessy.hatenablog.com/)
 
