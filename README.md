@@ -3,4 +3,4 @@ My interests are data engineering, machine learning, information retrieval and d
 
 He/him
 
-[More information are available here.](./profile.md)
+[More information is available here.](./profile.md)
