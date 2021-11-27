@@ -7,7 +7,7 @@ My interests are data engineering, machine learning, information retrieval and d
 
 ## Developer accounts
 
-[GitHub](https://github.com/yubessy) / [Speaker Deck](https://speakerdeck.com/yubessy) / [Qiita](https://qiita.com/yubessy)
+[GitHub](https://github.com/yubessy) / [Speaker Deck](https://speakerdeck.com/yubessy) / [Qiita](https://qiita.com/yubessy) / [LAPRAS](https://lapras.com/public/CJ7SGY2)
 
 ## Experiences
 
