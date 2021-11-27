@@ -24,7 +24,7 @@ And a couple of part-time jobs for other companies in 2017-2019.
 ## Publications
 
 Here are picked-up articles and presentations come from my works and studies.
-Almost all of them are written in Japanese.
+All of them are written in Japanese.
 
 ### At Livesense, Inc.
 
