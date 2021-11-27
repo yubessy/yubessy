@@ -58,7 +58,7 @@ Below is a tool I've developed as a hobby project.
 
 This is renju board that works on web browser.
 ['Renju'](https://www.renju.net/study/rules.php) is a kind of boardgame played by 2 players, taking turns to place a stone and winning by making five-in-a-row.
-Renju Note can visualize some important structures called "twos", "threes", "fours" and "closed threes", helping beginners to understand basis of the game.
+Renju Note can visualize some important structures called "twos", "threes", "fours", "closed threes" and "forbidden moves", helping beginners to understand basis of the game.
 In addition, it has several advaced features including [RenjuNet](https://www.renju.net/)'s official game database viewer/searcher and fast mate solver for intermediate/advanced players.
 
-[Application code (TypeScript/React)](https://github.com/renju-note/renju-note) and [mate solver library (Rust/wasm)](https://github.com/renju-note/quintet) are open-sourced.
+[Its application code (TypeScript/React)](https://github.com/renju-note/renju-note) and [mate solver library (Rust/wasm)](https://github.com/renju-note/quintet) are open-sourced.
