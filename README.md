@@ -1,5 +1,3 @@
-### Shotaro Tanaka a.k.a. yubessy
-
 He/Him/His
 
 I'm a programmer living in Japan.
