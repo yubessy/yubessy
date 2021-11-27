@@ -28,7 +28,7 @@ All of them are written in Japanese.
 
 ### At Livesense, Inc.
 
-- **2019-08** [リブセンスでのMLシステム開発・運用と 研究・開発アシスタントの取り組み](https://speakerdeck.com/livesense/ribusensudefalsemlsisutemukai-fa-yun-yong-to-yan-jiu-kai-fa-asisutantofalsequ-rizu-mi) at これからの開発チームのありかたを考える, Sansan Innovation Lab
+- **2019-08** [リブセンスでのMLシステム開発・運用と 研究・開発アシスタントの取り組み](https://speakerdeck.com/livesense/ribusensudefalsemlsisutemukai-fa-yun-yong-to-yan-jiu-kai-fa-asisutantofalsequ-rizu-mi) at これからの開発チームのありかたを考える
 - **2019-06** [Argo Workflow による機械学習ワークフロー管理](https://speakerdeck.com/livesense/argo-workflow-niyoruji-jie-xue-xi-wakuhuroguan-li) at Data Pipeline Casual Talk #3
 - **2019-06** [事業横断組織でのMLシステム開発・運用と基盤設計](https://speakerdeck.com/livesense/shi-ye-heng-duan-zu-zhi-defalsemlsisutemukai-fa-yun-yong-toji-pan-she-ji) at ML Meetup Kansai #5
 - **2018-12** [sqlcsv で RDB ↔ CSV の I/O をお手軽に](https://qiita.com/yubessy/items/3ef3cf7bd56e531955e5) on Livesense Advent Calendar 2018
@@ -58,7 +58,7 @@ Below is a tool I've developed as a hobby project.
 
 This is renju board that works on web browser.
 ['Renju'](https://www.renju.net/study/rules.php) is a kind of boardgame played by 2 players, taking turns to place a stone and winning by making five-in-a-row.
-Renju Note can visualize important structure called "twos", "threes", "fours" and "closed threes".
-In addition, it has some advaced features including RenjuNets' official game database viewer/searcher and fast mate solver.
+Renju Note can visualize some important structures called "twos", "threes", "fours" and "closed threes", helping beginners to understand basis of the game.
+In addition, it has several advaced features including [RenjuNet](https://www.renju.net/)'s official game database viewer/searcher and fast mate solver for intermediate/advanced players.
 
-[Application code (TypeScript/React)](https://github.com/renju-note/renju-note) and [mate solver library (Rust/wasm)](https://github.com/renju-note/quintet) are open-sourced on GitHub.
+[Application code (TypeScript/React)](https://github.com/renju-note/renju-note) and [mate solver library (Rust/wasm)](https://github.com/renju-note/quintet) are open-sourced.
