@@ -28,14 +28,14 @@ Almost all of them are written in Japanese.
 
 ### At Livesense, Inc.
 
-- **2019-08** [リブセンスでのMLシステム開発・運用と 研究・開発アシスタントの取り組み at Sansan Innovation Lab](https://speakerdeck.com/livesense/ribusensudefalsemlsisutemukai-fa-yun-yong-to-yan-jiu-kai-fa-asisutantofalsequ-rizu-mi)
-- **2019-06** [Argo Workflow による機械学習ワークフロー管理 at DPCT #3](https://speakerdeck.com/livesense/argo-workflow-niyoruji-jie-xue-xi-wakuhuroguan-li)
-- **2019-06** [事業横断組織でのMLシステム開発・運用と基盤設計 at ML Meetup Kansai #5](https://speakerdeck.com/livesense/shi-ye-heng-duan-zu-zhi-defalsemlsisutemukai-fa-yun-yong-toji-pan-she-ji)
-- **2018-12** [sqlcsv で RDB ↔ CSV の I/O をお手軽に on Livesense Advent Calendar 2018](https://qiita.com/yubessy/items/3ef3cf7bd56e531955e5)
-- **2018-10** [Julia によるレコメンドアルゴリズム実装 at ML Meetup Kansai #3](https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang)
-- **2018-09** [リブセンスにおける 機械学習システムの信頼性エンジニアリング at MLCT #6](https://speakerdeck.com/livesense/ribusensuniokeru-ji-jie-xue-xi-sisutemufalsexin-lai-xing-enziniaringu)
-- **2018-02** [事業に寄り添うデータ基盤の育てかた at DevSumi 2018](https://speakerdeck.com/livesense/shi-ye-niji-ritian-udetaji-pan-falseyu-tefang)
-- **2017-04** [データ分析を支える「便利カラム」の問題点とその解決策 on Livesense Engineer Blog](https://made.livesense.co.jp/entry/2017/04/18/090000)
+- **2019-08** [リブセンスでのMLシステム開発・運用と 研究・開発アシスタントの取り組み](https://speakerdeck.com/livesense/ribusensudefalsemlsisutemukai-fa-yun-yong-to-yan-jiu-kai-fa-asisutantofalsequ-rizu-mi) at これからの開発チームのありかたを考える, Sansan Innovation Lab
+- **2019-06** [Argo Workflow による機械学習ワークフロー管理](https://speakerdeck.com/livesense/argo-workflow-niyoruji-jie-xue-xi-wakuhuroguan-li) at Data Pipeline Casual Talk #3
+- **2019-06** [事業横断組織でのMLシステム開発・運用と基盤設計](https://speakerdeck.com/livesense/shi-ye-heng-duan-zu-zhi-defalsemlsisutemukai-fa-yun-yong-toji-pan-she-ji) at ML Meetup Kansai #5
+- **2018-12** [sqlcsv で RDB ↔ CSV の I/O をお手軽に](https://qiita.com/yubessy/items/3ef3cf7bd56e531955e5) on Livesense Advent Calendar 2018
+- **2018-10** [Julia によるレコメンドアルゴリズム実装](https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang) at ML Meetup Kansai #3
+- **2018-09** [リブセンスにおける機械学習システムの信頼性エンジニアリング](https://speakerdeck.com/livesense/ribusensuniokeru-ji-jie-xue-xi-sisutemufalsexin-lai-xing-enziniaringu) at Machine Learning Casual Talk #6
+- **2018-02** [事業に寄り添うデータ基盤の育てかた](https://speakerdeck.com/livesense/shi-ye-niji-ritian-udetaji-pan-falseyu-tefang) at Developers Summit 2018
+- **2017-04** [データ分析を支える「便利カラム」の問題点とその解決策](https://made.livesense.co.jp/entry/2017/04/18/090000) on Livesense Engineer Blog
 
 Some other presentations are also available on [Livesense's Speaker Deck](https://speakerdeck.com/livesense)
 
