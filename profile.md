@@ -26,7 +26,7 @@ And a couple of part-time jobs for other companies in 2017-2019.
 Here are picked-up articles and presentations come from my works and studies.
 All of them are written in Japanese.
 
-### At Livesense, Inc.
+### From works at Livesense, Inc.
 
 - **2019-08** [リブセンスでのMLシステム開発・運用と 研究・開発アシスタントの取り組み](https://speakerdeck.com/livesense/ribusensudefalsemlsisutemukai-fa-yun-yong-to-yan-jiu-kai-fa-asisutantofalsequ-rizu-mi) at これからの開発チームのありかたを考える
 - **2019-06** [Argo Workflow による機械学習ワークフロー管理](https://speakerdeck.com/livesense/argo-workflow-niyoruji-jie-xue-xi-wakuhuroguan-li) at Data Pipeline Casual Talk #3
@@ -39,7 +39,7 @@ All of them are written in Japanese.
 
 Some other presentations are also available on [Livesense's Speaker Deck](https://speakerdeck.com/livesense)
 
-### Personal
+### From personal studies
 
 - **2020-12** [IndexedDB でつくる連珠棋譜検索](https://yubessy.hatenablog.com/entry/2020/12/15/002656)
 - **2018-11** [論文紹介: Rank and Relevance in Novelty and Diversity Metrics](https://yubessy.hatenablog.com/entry/2018/11/19/182548)
