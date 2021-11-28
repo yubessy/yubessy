@@ -14,7 +14,7 @@ And a couple of part-time jobs for other companies in 2017-2019.
 
 ## Educations
 
-- **2014-04 - 2016-03** Master's Degree at Graduate School of Informatics, Kyoto University
+- **2014-04 - 2016-03** Master's Degree at Graduate School of Informatics, Kyoto University.
 - **2010-04 - 2014-03** Bachelor's Degree at Undergraduate School of Informatics and Mathematical Science, Kyoto University.
 
 ## Publications
@@ -33,7 +33,7 @@ All of them are written in Japanese.
 - **2018-02** [事業に寄り添うデータ基盤の育てかた](https://speakerdeck.com/livesense/shi-ye-niji-ritian-udetaji-pan-falseyu-tefang) at Developers Summit 2018
 - **2017-04** [データ分析を支える「便利カラム」の問題点とその解決策](https://made.livesense.co.jp/entry/2017/04/18/090000) on Livesense Engineer Blog
 
-Some other presentations are also available on [Livesense's Speaker Deck](https://speakerdeck.com/livesense)
+Some other presentations are also available on [Livesense's Speaker Deck](https://speakerdeck.com/livesense).
 
 ### From personal studies
 
@@ -42,7 +42,7 @@ Some other presentations are also available on [Livesense's Speaker Deck](https:
 - **2018-04** [機械学習システムの運用課題とコンテナオーケストレーションがもたらすもの](https://yubessy.hatenablog.com/entry/2018/04/16/120000)
 - **2017-01** [Word Mover's Distance: word2vecの文書間距離への応用](https://yubessy.hatenablog.com/entry/2017/01/10/122737)
 
-Some other materials are also available on [My Speaker Deck](https://speakerdeck.com/yubessy) or [My Blog](https://yubessy.hatenablog.com/)
+Some other materials are also available on [My Speaker Deck](https://speakerdeck.com/yubessy) or [My Blog](https://yubessy.hatenablog.com/).
 
 ## Portfolio
 
