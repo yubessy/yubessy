@@ -8,7 +8,7 @@ He/him
 ## Experiences
 
 - **2016-04 - current** Full-time data engineer / machine learning engineer at Livesense, Inc.
-- **2015-01 - 2016-12** Internship at Hatena Co., Ltd.
+- **2015-01 - 2015-12** Internship at Hatena Co., Ltd.
 
 And a couple of part-time jobs for other companies in 2017-2019.
 
@@ -48,9 +48,9 @@ Some other materials are also available on [My Speaker Deck](https://speakerdeck
 
 Below is a tool I've developed as a hobby project.
 
-### Renju Note (連珠ノート)
+### [Renju Note](https://renju-note.com/)
 
-[Renju Note](https://renju-note.com/)
+<img src="./images/renju-note.jpeg" width="800" />
 
 This is renju board that works on web browser.
 ['Renju'](https://www.renju.net/study/rules.php) is a kind of boardgame played by 2 players, taking turns to place a stone and winning by making five-in-a-row.
