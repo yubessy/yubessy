@@ -24,6 +24,7 @@ All of them are written in Japanese.
 
 ### From works at Livesense, Inc.
 
+- **2021-12** [Kubernetes manifests を単一リポジトリで集中管理する運用設計](https://made.livesense.co.jp/entry/2021/12/04/083000) on Livesense Engineer Blog
 - **2019-08** [リブセンスでのMLシステム開発・運用と 研究・開発アシスタントの取り組み](https://speakerdeck.com/livesense/ribusensudefalsemlsisutemukai-fa-yun-yong-to-yan-jiu-kai-fa-asisutantofalsequ-rizu-mi) at これからの開発チームのありかたを考える
 - **2019-06** [Argo Workflow による機械学習ワークフロー管理](https://speakerdeck.com/livesense/argo-workflow-niyoruji-jie-xue-xi-wakuhuroguan-li) at Data Pipeline Casual Talk #3
 - **2019-06** [事業横断組織でのMLシステム開発・運用と基盤設計](https://speakerdeck.com/livesense/shi-ye-heng-duan-zu-zhi-defalsemlsisutemukai-fa-yun-yong-toji-pan-she-ji) at ML Meetup Kansai #5
