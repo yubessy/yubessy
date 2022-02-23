@@ -7,7 +7,7 @@ He/him
 
 ## Experiences
 
-- **2016-04 - current** Full-time data engineer / machine learning engineer at Livesense, Inc.
+- **2016-04 - 2022-03** Full-time data engineer / machine learning engineer at Livesense, Inc.
 - **2015-01 - 2015-12** Internship at Hatena Co., Ltd.
 
 And a couple of part-time jobs for other companies in 2017-2019.
