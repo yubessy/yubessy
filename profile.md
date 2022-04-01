@@ -7,6 +7,7 @@ He/him
 
 ## Experiences
 
+- **2022-04 - Now** Full-time data engineer at Ubie, Inc.
 - **2016-04 - 2022-03** Full-time data engineer / machine learning engineer at Livesense, Inc.
 - **2015-01 - 2015-12** Internship at Hatena Co., Ltd.
 
